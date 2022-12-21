@@ -1,5 +1,5 @@
 ---
-#: title: Why 100 Degrees is Too Hot
+#: Why 100 Degrees is Too Hot
 ---
 
 100<sup>degrees</sup> **Is too damn _hot_ to be outside** for the following reasons:
